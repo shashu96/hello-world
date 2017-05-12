@@ -1,2 +1,4 @@
 # hello-world
-introduction to the github
+introduction to github
+Hi
+I am Shashank, pursuing engineering in Electronics and Communication.
